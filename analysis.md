@@ -1,3 +1,4 @@
+![Credit Score Distribution](credit_score_distribution.png)
 
 # 📊 Credit Score Analysis
 
