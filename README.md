@@ -94,7 +94,7 @@ Source: [Aave V2 user transactions - JSON](https://drive.google.com/file/d/1ISFb
 
 **Aryan Tyagi**  
 B.Tech CSE (AI & ML), SRM Institute of Science and Technology  
-GitHub: https://github.com/aryantyagi0/defi-wallet-credit-scoring
+GitHub: https://github.com/aryantyagi0
 
 ---
 
